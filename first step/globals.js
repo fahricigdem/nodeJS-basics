@@ -3,7 +3,13 @@
 // setTimeout(() => {
 //     console.log("timeout-1")
 // }, 3000)
+////////////////////////////////
+// function Timeout() {
+//     console.log('timeout-2')
+// }
 
+// setTimeout(Timeout, 3000)
+////////////////////////////////
 // setTimeout(function () {
 //     console.log('timeout-2')
 // }, 3000)
@@ -22,4 +28,4 @@
 // console.log(__dirname)
 // console.log(__filename)
 
-console.log(document.querySelector)
+//console.log(document.querySelector)
